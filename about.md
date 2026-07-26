@@ -6,7 +6,7 @@ permalink: /about/
 
 # 湯建功 Jiangong (Tommy) Tang
 
-[ttangwork.github.io](https://ttangwork.github.io) &middot; [GitHub](https://github.com/ttangwork) &middot; [LinkedIn](https://www.linkedin.com/in/tangtt)
+[LinkedIn](https://www.linkedin.com/in/tangtt)
 
 DevOps Engineer with extensive experience in building, migrating, and operating
 enterprise cloud platforms across AWS, GCP, and Azure. Specialises in Infrastructure as
