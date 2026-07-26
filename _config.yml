@@ -30,7 +30,7 @@ github_username:  ttangwork
 # Build settings
 remote_theme: jekyll/minima
 minima:
-  skin: solarized
+  skin: dark
 plugins:
   - jekyll-feed
 
