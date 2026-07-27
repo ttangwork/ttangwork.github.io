@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Azure - Setting up Traffic Manager in front of Application Gateways"
+title:  "Setting up Traffic Manager in front of Application Gateways"
 date:   2026-07-26 14:03:42 +1000
 categories: azure
 ---
