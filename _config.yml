@@ -29,17 +29,25 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: jekyll/minima
-minima:
-  skin: auto
-  hide_site_feed_link: true
-  social_links:
-    - title: ttangwork
-      icon: github
-      url: "https://github.com/ttangwork"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# Minima settings
+minima:
+  skin: auto
+  hide_site_feed_link: true
+  nav_pages:
+    - about.md
+    - resume.md
+  social_links:
+    - title: ttangwork
+      icon: github
+      url: "https://github.com/ttangwork"
+    - title: Tommy Tang
+      icon: linkedin
+      url: "https://www.linkedin.com/in/tangtt"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
