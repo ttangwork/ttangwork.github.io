@@ -14,7 +14,7 @@ Below are the other three ways I've watched engagements go to waste, drawn from 
 
 ## The handover is not the knowledge transfer
 
-When you pay a consultant to do the work, the code and the tooling are the smaller half of what you're buying. The larger half is what your team can do after we leave, and that only accrues if we're embedded in the team while the work happens — in the same standups, on the same tickets, close enough that the feedback loop is a conversation rather than a document.
+When you pay a consultant to do the work, the code and the tooling are the smaller half of what you're buying. The larger half is what your team can do after we leave, and that only accrues if we're embedded in the team while the work happens - in the same standups, on the same tickets, close enough that the feedback loop is a conversation rather than a document.
 
 The failure mode is the big handover session a week before offboarding. I've been in those. They feel productive because a lot of information moves, and they achieve nothing, because information isn't the thing that was missing. The team hears it for the first time at the exact moment they're told to own it, and the honest reaction is shock, or denial, or a quiet decision to keep doing it the old way. The worst outcome isn't that the handover goes badly. It's that the team never touches the work at all, and you paid for something that gets rebuilt or abandoned in six months.
 
@@ -30,7 +30,7 @@ It's easier said than done, and the honest part is that the middle is worse than
 
 Including me.
 
-I'm in this for your money. That's not a confession, it's the arrangement — but it means my incentive is to keep being useful to you, and your interest is in needing me less over time. Those aren't the same thing, and when they diverge it's your job to notice, because it won't be mine.
+I'm in this for your money. That's not a confession, it's the arrangement - but it means my incentive is to keep being useful to you, and your interest is in needing me less over time. Those aren't the same thing, and when they diverge it's your job to notice, because it won't be mine.
 
 So treat the engagement as something you're accountable for rather than something you've outsourced. There's no quick fix and nothing changes overnight, whatever the proposal says. Fix your fundamentals so the good work isn't capped by the bad. Drive the cultural change from inside, because no external party can do it for you. Hire the right people for the right jobs. Make the hard calls that cut through the politics, which is the one that everyone agrees with and nobody does.
 
