@@ -24,7 +24,7 @@ If you're the client, the question to ask isn't "will there be a handover". It's
 
 If your organisation doesn't know what DevOps is, buying the tools won't make you DevOps. You'll have the same problems, rebranded in nicer colours, with a dashboard on top. I can bring pipelines, IaC and a way of working, but I can't make two teams that have spent years protecting their boundaries start sharing responsibility for an outcome. That has to be driven from inside, by management, deliberately, and it means breaking silos that people are comfortable in.
 
-It's easier said than done, and the honest part is that it gets worse before it gets better. There's a period where the old process is gone and the new one isn't trusted yet, everything takes longer, and it feels like the decision was wrong. That's the point at which most of it gets reversed. It's worth pushing through, but you should go in knowing that stretch is coming rather than discovering it and reading it as failure.
+It's easier said than done, and the honest part is that it gets worse before it gets better. There's a period where the old process is gone and the new one isn't trusted yet, everything takes longer, and it feels like the decision was wrong. That's the point at which most of it gets reversed. It's worth pushing through, but you should go in knowing what to expect rather than discovering it and reading it as failure.
 
 ## Never trust a consultant
 
