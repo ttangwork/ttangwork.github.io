@@ -6,15 +6,15 @@ permalink: /about/
 
 Hi, I'm Tommy.
 
-I'm a Platform engineer who has spent almost two decades in and around
+I'm a platform engineer who has spent almost two decades in and around
 enterprise IT - long enough to have watched "the server room" turn into "the
-cloud console" - my 1st task as a graduate in 2009 was literally going into the data
-centre to audit how many servers we have - and to have migrated a few legacy
+cloud console" - my first task as a graduate in 2009 was literally going into the data
+centre to audit how many servers we had - and to have migrated a few legacy
 systems along the way.
 
 I started out supporting business applications, building ETL and dashboards
 for government, back when a good night's sleep depended on a batch job finishing on time 
-(unfortunately on-call roster still exists today for a lot of companies). 
+(unfortunately on-call rosters still exist today for a lot of companies).
 Over the years I drifted towards the infrastructure underneath: monitoring the
 mission-critical systems that can't go down, and eventually building and
 migrating cloud platforms across AWS, GCP, and Azure for banks,
@@ -28,7 +28,7 @@ smarter at the same time - IYKYK.
 
 ### Why /var/log?
 
-In Unix/Linux, `/var/log` is where everythin gets logged - the successes,
+In Unix/Linux, `/var/log` is where everything gets logged - the successes,
 the warnings, and the errors which are crucial for troubleshooting. This site
 is my version of that: a collection of posts where I log the mistakes I made,
 the problems I've worked through, and the things I want to remember for the
