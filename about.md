@@ -15,7 +15,7 @@ systems along the way.
 I started out supporting business applications, building ETL and dashboards
 for government, back when a good night's sleep depended on a batch job finishing on time 
 (unfortunately on-call roster still exists today for a lot of companies). 
-Over the years I drifted toward the infrastructure underneath: monitoring the
+Over the years I drifted towards the infrastructure underneath: monitoring the
 mission-critical systems that can't go down, and eventually building and
 migrating cloud platforms across AWS, GCP, and Azure for banks,
 public sector, and utilities companies.
