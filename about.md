@@ -24,7 +24,7 @@ These days I spend most of my time in Terraform, Bicep, and CI/CD pipelines -
 building platforms, automating the boring parts, and helping teams get
 comfortable running their own cloud infrastructure. I like learning and building
 random stuff in my spare time but I'm afraid Claude has made me dumber and
-smarter at the same time - IYKYK.
+smarter at the same time.
 
 ### Why /var/log?
 
