@@ -21,9 +21,8 @@
 title: /var/log
 author:
   name: Tommy Tang
-  email: tangtjg@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  technical journal of a devops engineer
+  technical journal of a platform engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
